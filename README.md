@@ -10,4 +10,6 @@ An implementation of various functionalities via JavaScript, HTML 5 and CSS
    Display the values for both countries 
    Country rate can be swapped
 
+##3_bubble_animation:
+   Displays a UI filled with bubble animation and some social media links
 
