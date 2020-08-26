@@ -1,0 +1,596 @@
+[
+    {
+        "abbr": "AL",
+        "name": "Algeria",
+        "capital": "Algiers",
+        "geo_area": "2,381,741 sq km",
+        "population": "43,851,044",
+        "independence_day": "July 3, 1962",
+        "lat": "28.0339 N",
+        "long": "1.6596 E"
+
+    },
+    {
+        "abbr": "DRC",
+        "name": "Democratic Republic of the Congo",
+        "capital": "Kinshasa",
+        "geo_area": "2,344,858 sq km",
+        "population": "89,561,403",
+        "independence_day": "June 30, 1960",
+        "lat": "4.0383 S",
+        "long": "21.7587 E"
+
+    },
+    {
+        "abbr": "SU",
+        "name": "Sudan",
+        "capital": "Khartoun",
+        "geo_area": "1,861,484 sq km",
+        "population": "43,849,260",
+        "independence_day": "January 1, 1956",
+        "lat": "12.8628 N",
+        "long": "30.2176 E"
+
+    },
+    {
+        "abbr": "LB",
+        "name": "Libya",
+        "capital": "Tripoli",
+        "geo_area": "1,759,540 sq km",
+        "population": "6,871,292",
+        "independence_day": "December 24, 1951",
+        "lat": "26.3351 N",
+        "long": "17.2283 E"
+
+    },
+    {
+        "abbr": "CH",
+        "name": "Chad",
+        "capital": "N'Djamena",
+        "geo_area": "1,284,000 sq km",
+        "population": "16,425,864",
+        "independence_day": "August 11, 1960",
+        "lat": "15.4542 N",
+        "long": "18.7322 E"
+
+    },
+    {
+        "abbr": "NG",
+        "name": "Niger",
+        "capital": "Niamey",
+        "geo_area": "1,267,000 sq km",
+        "population": "24,206,644",
+        "independence_day": "August 3, 1960",
+        "lat": "17.6078 N",
+        "long": "8.0817 E"
+
+    },
+    {
+        "abbr": "AN",
+        "name": "Angola",
+        "capital": "Luanda",
+        "geo_area": "1,246,700 sq km",
+        "population": "32,866,272",
+        "independence_day": "November 11, 1957",
+        "lat": "11.2027 S",
+        "long": "17.8739 E"
+
+    },
+    {
+        "abbr": "ML",
+        "name": "Mali",
+        "capital": "Bamako",
+        "geo_area": "1,240,192 sq km",
+        "population": "20,250,833",
+        "independence_day": "September 22, 1960",
+        "lat": "17.5707 N",
+        "long": "3.9962 W"
+
+    },
+    {
+        "abbr": "ZA",
+        "name": "South Africa",
+        "capital": "Pretoria",
+        "geo_area": "1,221,037 sq km",
+        "population": "59,308,690",
+        "independence_day": "May 31, 1910",
+        "lat": "30.5595 S",
+        "long": "22.9375 E"
+
+    },
+    {
+        "abbr": "ET",
+        "name": "Ethiopia",
+        "capital": "Addis Ababa",
+        "geo_area": "1,104,300 sq km",
+        "population": "114,963,588",
+        "independence_day": "May 5, 1941",
+        "lat": "9.1450 N",
+        "long": "40.4897 E"
+
+    },
+    {
+        "abbr": "MU",
+        "name": "Mauritania",
+        "capital": "Nouakchott",
+        "geo_area": "1,030,700 sq km",
+        "population": "4,649,658",
+        "independence_day": "November 28, 1960",
+        "lat": "21.0079 N",
+        "long": "10.9408 W"
+
+    },
+    {
+        "abbr": "EG",
+        "name": "Egypt",
+        "capital": "Cairo",
+        "geo_area": "1,001,449 sq km",
+        "population": "102,334,404",
+        "independence_day": "February 28, 1922",
+        "lat": "26.8206 N",
+        "long": "30.8025 E"
+
+    },
+    {
+        "abbr": "TA",
+        "name": "Tanzania",
+        "capital": "Dodoma",
+        "geo_area": "945,203 sq km",
+        "population": "59,734,218",
+        "independence_day": "December 9, 1961",
+        "lat": "6.3690 S",
+        "long": "34.8888 E"
+
+    },
+    {
+        "abbr": "NI",
+        "name": "Nigeria",
+        "capital": "Abuja",
+        "geo_area": "923,768 sq km",
+        "population": "206,139,589",
+        "independence_day": "October 1, 1960",
+        "lat": "9.0820 N",
+        "long": "8.6753 E"
+
+    },
+    {
+        "abbr": "NM",
+        "name": "Namibia",
+        "capital": "Windhoek",
+        "geo_area": "825,418 sq km",
+        "population": "2,540,905",
+        "independence_day": "March 21, 1990",
+        "lat": "22.9576 S",
+        "long": "18.4904 E"
+
+    },
+    {
+        "abbr": "MZ",
+        "name": "Mozambique",
+        "capital": "Maputo",
+        "geo_area": "752,614 sq km",
+        "population": "31,255,435",
+        "independence_day": "July 25, 1975",
+        "lat": "18.6657 S",
+        "long": "35.5296 E"
+
+    },
+    {
+        "abbr": "ZM",
+        "name": "Zambia",
+        "capital": "Lusaka",
+        "geo_area": "752,614 sq km",
+        "population": "18,383,955",
+        "independence_day": "October 24, 1964",
+        "lat": "13.1339 S",
+        "long": "27.8493 E"
+
+    },
+    {
+        "abbr": "MR",
+        "name": "Moocco",
+        "capital": "Rabat",
+        "geo_area": "710,850 sq km",
+        "population": "36,910,560",
+        "independence_day": "March 2, 1956",
+        "lat": "31.7917 N",
+        "long": "7.0926 W"
+
+    },
+    {
+        "abbr": "SS",
+        "name": "South Sudan",
+        "capital": "Juba",
+        "geo_area": "644,329 sq km",
+        "population": "11,193,725",
+        "independence_day": "July 9, 2011",
+        "lat": "6.8770 N",
+        "long": "31.3070 E"
+
+    },
+    {
+        "abbr": "SO",
+        "name": "Somalia",
+        "capital": "Mogadishu",
+        "geo_area": "637,657 sq km",
+        "population": "15,893,222",
+        "independence_day": "July 1, 1960",
+        "lat": "5.1521 N",
+        "long": "46.1996 E"
+
+    },
+    {
+        "abbr": "CA",
+        "name": "Central Africal Republic",
+        "capital": "Bangui",
+        "geo_area": "622, 984 sq km",
+        "population": "4,829,767",
+        "independence_day": "August 13, 1960",
+        "lat": "4.3947 N",
+        "long": "18.5582 E"
+
+    },
+    {
+        "abbr": "MD",
+        "name": "Madagascar",
+        "capital": "Antananarivo",
+        "geo_area": "587,041 sq km",
+        "population": "27,691,018",
+        "independence_day": "June 26, 1960",
+        "lat": "18.7669 S",
+        "long": "46.8691 E"
+
+    },
+    {
+        "abbr": "BT",
+        "name": "Botswana",
+        "capital": "Gaborone",
+        "geo_area": "581,726 sq km",
+        "population": "2,351,627",
+        "independence_day": "September 30, 1966",
+        "lat": "22.3285 S",
+        "long": "24.6849 E"
+
+    },
+    {
+        "abbr": "KY",
+        "name": "Kenya",
+        "capital": "Nairobi",
+        "geo_area": "580,367 sq km",
+        "population": "53,771,296",
+        "independence_day": "December 12, 1963",
+        "lat": "0.0236 S",
+        "long": "37.9062 E"
+
+    },
+    {
+        "abbr": "CR",
+        "name": "Cameroon",
+        "capital": "Yaounde",
+        "geo_area": "475, 442 sq km",
+        "population": "26,545,863",
+        "independence_day": "January 1, 1960",
+        "lat": "7.3697 N",
+        "long": "12.3547 E"
+
+    },
+    {
+        "abbr": "ZW",
+        "name": "Zimbabwe",
+        "capital": "Harare",
+        "geo_area": "390,757 sq km",
+        "population": "14,862,924",
+        "independence_day": "April 18, 1980",
+        "lat": "19.0154 S",
+        "long": "29.1549 E"
+
+    },
+    {
+        "abbr": "RC",
+        "name": "Republic of the Congo",
+        "capital": "Brazzaville",
+        "geo_area": "342,000 sq km",
+        "population": "5,518,087",
+        "independence_day": "August 15, 1960",
+        "lat": "0.2280 S",
+        "long": "15.8277 E"
+
+    },
+    {
+        "abbr": "IC",
+        "name": "Ivory Coast (Cote d'lvoire)",
+        "capital": "Abidjan, Yamoussoukro",
+        "geo_area": "322,460 sq km",
+        "population": "26,378,274",
+        "independence_day": "August 7, 1960",
+        "lat": "7.5400 N",
+        "long": "5.5471 W"
+
+    },
+    {
+        "abbr": "BF",
+        "name": "Burkina Faso",
+        "capital": "Ouagadougou",
+        "geo_area": "274,000 sq km",
+        "population": "20,903,273",
+        "independence_day": "August 5, 1960",
+        "lat": "12.3714 N",
+        "long": "1.5197 W"
+
+    },
+    {
+        "abbr": "GB",
+        "name": "Gabon",
+        "capital": "Libreville",
+        "geo_area": "267,668 sq km",
+        "population": "2,225,734",
+        "independence_day": "August 16, 1960",
+        "lat": "0.8037 N",
+        "long": "11.6094 E"
+
+    },
+    {
+        "abbr": "GU",
+        "name": "Guinea",
+        "capital": "Conakry",
+        "geo_area": "245,857 sq km",
+        "population": "13,132,795",
+        "independence_day": "October 2, 1958",
+        "lat": "9.9456 N",
+        "long": "9.6966 W"
+
+    },
+    {
+        "abbr": "GH",
+        "name": "Ghana",
+        "capital": "Accra",
+        "geo_area": "238,534 sq km",
+        "population": "31,072,940",
+        "independence_day": "March 6, 1957",
+        "lat": "7.9465 N",
+        "long": "1.0232 W"
+
+    },
+    {
+        "abbr": "UG",
+        "name": "Uganda",
+        "capital": "Kampala",
+        "geo_area": "236,040 sq km",
+        "population": "45,741,007",
+        "independence_day": "October 19, 1962",
+        "lat": "0.3476 N",
+        "long": "32.5825 E"
+
+    },
+    {
+        "abbr": "SN",
+        "name": "Senegal",
+        "capital": "Dakar",
+        "geo_area": "196, 723 sq km",
+        "population": "16,743,927",
+        "independence_day": "April 4, 1960",
+        "lat": "14.4974 N",
+        "long": "14.4524 W"
+
+    },
+    {
+        "abbr": "TN",
+        "name": "Tunisia",
+        "capital": "Tunis",
+        "geo_area": "163,610 sq km",
+        "population": "11,818,619",
+        "independence_day": "March 20, 1956",
+        "lat": "33.8869 N",
+        "long": "9.5375 E"
+
+    },
+    {
+        "abbr": "MW",
+        "name": "Malawi",
+        "capital": "Lilongwe",
+        "geo_area": "118,484 sq km",
+        "population": "19,129,952",
+        "independence_day": "July 6, 1964",
+        "lat": "13.2543 S",
+        "long": "34.3015 E"
+
+    },
+    {
+        "abbr": "ER",
+        "name": "Eritrea",
+        "capital": "Asmara",
+        "geo_area": "117,600 sq km",
+        "population": "3,546,421",
+        "independence_day": "May 24, 1993",
+        "lat": "15.1794 N",
+        "long": "39.7823 E"
+
+    },
+    {
+        "abbr": "BE",
+        "name": "Benin",
+        "capital": "Porto-Novo",
+        "geo_area": "112,622 sq km",
+        "population": "12,123,200",
+        "independence_day":"August 1, 1960",
+        "lat": "9.3077 N",
+        "long": "2.3158 E"
+
+    },
+    {
+        "abbr": "LI",
+        "name": "Liberia",
+        "capital": "Monrovia",
+        "geo_area": "111,369 sq km",
+        "population": "5,057,681",
+        "independence_day":"July 26, 1847",
+        "lat": "6.4281 N",
+        "long": "9.42 W"
+
+    },
+    {
+        "abbr": "SL",
+        "name": "Sierra Leone",
+        "capital": "Freetown",
+        "geo_area": "71,740 sq km",
+        "population": "7,976,983",
+        "independence_day": "April 27, 1961",
+        "lat": "8.4606 N",
+        "long": "11.7799 W"
+
+    },
+    {
+        "abbr": "TO",
+        "name": "Togo",
+        "capital": "Lome",
+        "geo_area": "56,785 sq km",
+        "population": "8,278,724",
+        "independence_day": "April 27, 1960",
+        "lat": "6.1256 N",
+        "long": "1.2254 E"
+
+    },
+    {
+        "abbr": "RG",
+        "name": "Guinea-Bissau",
+        "capital": "Bissau",
+        "geo_area": "36,125 sq km",
+        "population": "1,968,001",
+        "independence_day": "September 24, 1973",
+        "lat": "11.8632 N",
+        "long": "15.5843 W"
+
+    },
+    {
+        "abbr": "LE",
+        "name": "Lesotho",
+        "capital": "Maseru",
+        "geo_area": "30,355 sq km",
+        "population": "2,142,249",
+        "independence_day": "October 4, 1966",
+        "lat": "29.6100 S",
+        "long": "28.2336 E"
+
+    },
+    {
+        "abbr": "RE",
+        "name": "Equatorial Guinea",
+        "capital": "Malabo",
+        "geo_area": "28,051 sq km",
+        "population": "1,402,985",
+        "independence_day": "October 12, 1968",
+        "lat": "1.6508 N",
+        "long": "10.2 679 E"
+
+    },
+    {
+        "abbr": "BR",
+        "name": "Burundi",
+        "capital": "Bujumbura",
+        "geo_area": "27,830 sq km",
+        "population": "11,890,784",
+        "independence_day": "July 1, 1962",
+        "lat": "3.3731S",
+        "long": "29.9189 E"
+
+    },
+    {
+        "abbr": "RW",
+        "name": "Rwanda",
+        "capital": "Kigali",
+        "geo_area": "26,798 sq km",
+        "population": "12,952,218",
+        "independence_day": "July 1, 1962",
+        "lat": "1.9403 S",
+        "long": "29.8739 E"
+
+    },
+    {
+        "abbr": "RD",
+        "name": "Djibouti",
+        "capital": "Djibouti",
+        "geo_area": "23,200 sq km",
+        "population": "988,000",
+        "independence_day": "June 27, 1977",
+        "lat": "11.8251 N",
+        "long": "42.5903 E"
+
+    },
+    {
+        "abbr": "SW",
+        "name": "Eswatini (Swaziland)",
+        "capital": "Mbabane",
+        "geo_area": "17,364 sq km",
+        "population": "1,160,164",
+        "independence_day": "September 6, 1968",
+        "lat": "26.5225 S",
+        "long": "31.4659 E"
+
+    },
+    {
+        "abbr": "GA",
+        "name": "The Gambia",
+        "capital": "Banjul",
+        "geo_area": "10, 380 sq km",
+        "population": "2,416,668",
+        "independence_day": "February 18, 1965",
+        "lat": "13.4432 N",
+        "long": "15.3101 W"
+
+    },
+    {
+        "abbr": "CV",
+        "name": "Cape Verde",
+        "capital": "Praia",
+        "geo_area": "4,033 sq km",
+        "population": "555,987",
+        "independence_day":"July 5, 1975",
+        "lat": "16.5388 N",
+        "long": "23.0418 W"
+
+    },
+    {
+        "abbr": "CM",
+        "name": "Comoros",
+        "capital": "Moroni",
+        "geo_area": "2,235 sq km",
+        "population": "869,601",
+        "independence_day":"July 6, 1975",
+        "lat": "11.6455 S",
+        "long": "43.3333 E"
+
+    },
+    {
+        "abbr": "MA",
+        "name": "Mauritius",
+        "capital": "Port Louis",
+        "geo_area": "2,040 sq km",
+        "population": "1,271,768",
+        "independence_day":"March 12, 1968",
+        "lat": "20.3484 S",
+        "long": "57.5522 E"
+
+    },
+    {
+        "abbr": "RS",
+        "name": "Sao Tome and Principe",
+        "capital": "Sao Tome",
+        "geo_area": "964 sq km",
+        "population": "219,159",
+        "independence_day":"July 12, 1975",
+        "lat": "0.1864 N",
+        "long": "6.6131 E"
+
+    },
+    {
+        "abbr": "SY",
+        "name": "Seychelles",
+        "capital": "Victoria",
+        "geo_area": "451 sq km",
+        "population": "98,347",
+        "independence_day":"June 29, 1976",
+        "lat": "4.6796 S",
+        "long": "55.4920 E"
+
+    }
+]
