@@ -19,3 +19,7 @@ An implementation of various functionalities via JavaScript, HTML 5 and CSS
 ##4_african_countries_lookup:
   Displays a UI for searching for an African country name, Capital, Independent date, Population as at January 2020, Geographical area and the latitude and longitude;
   Enter the country name and select a match in the list for an autocomplete  
+
+##5_Form_Validator:
+Displays a form UI with four input fields (Username, Email, Password, and Confirm Password)
+Various input validation functions are implemented to test the validity of each field's values
